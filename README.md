@@ -1,2 +1,3 @@
 # stopwatch
- 
+
+![screenshot](screenshot.png)
